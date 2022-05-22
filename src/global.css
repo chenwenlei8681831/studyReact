@@ -1,0 +1,15 @@
+
+.w_100{
+    width: 100%;
+    
+}
+.vh_100{
+    height:100vh
+}
+.red{
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+.pointer{
+    cursor: pointer;
+}
