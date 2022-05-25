@@ -9,7 +9,7 @@ function Login() {
     history.push('/Home');
   }
   function aa(){
-    console.log(123123)
+    console.log('打印东西',123123)
   }
   useEffect(() => {
     aa();
